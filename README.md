@@ -15,11 +15,11 @@
 
 2. DELETE ATASAN
 
+![del atasan](https://user-images.githubusercontent.com/45527518/148975470-fdd59ec0-287f-4933-9a0b-76975a3ce5d7.jpg)
+
 
 ![del atasan1](https://user-images.githubusercontent.com/45527518/148975411-293e1c20-cd0c-4e52-b81b-030e96f70b1e.jpg)
 
-
-![del atasan](https://user-images.githubusercontent.com/45527518/148975470-fdd59ec0-287f-4933-9a0b-76975a3ce5d7.jpg)
 
 
 3. DELETE ADMIN
