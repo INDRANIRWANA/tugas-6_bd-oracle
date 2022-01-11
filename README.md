@@ -13,7 +13,7 @@
 ![del karyawan1](https://user-images.githubusercontent.com/45527518/148975323-59396c93-ed2c-4447-afca-8976ed71cf65.jpg)
 
 
-2. DELET ATASAN
+2. DELETE ATASAN
 
 
 ![del atasan1](https://user-images.githubusercontent.com/45527518/148975411-293e1c20-cd0c-4e52-b81b-030e96f70b1e.jpg)
